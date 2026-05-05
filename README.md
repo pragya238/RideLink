@@ -218,9 +218,9 @@ Diagrams are in `/assets/` and the project report PDF:
 
 | Name | Role | Contributions |
 |---|---|---|
-| [Team Member 1] | System Architect & Lead Developer | System design, design pattern implementation, backend API |
-| [Team Member 2] | Frontend Developer | React UI, auth flow, dashboards |
-| [Team Member 3] | Documentation & Diagrams | UML diagrams, README, project report |
+| Aditi | System Architect & Lead Developer | System design, design pattern implementation, backend API |
+| Pragya | Frontend Developer | React UI, auth flow, dashboards |
+| Pragya | Documentation & Diagrams | UML diagrams, README, project report |
 
 ---
 
